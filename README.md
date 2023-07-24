@@ -1,6 +1,10 @@
 # Studying_Rust
 
-This repository brings together my studies in the Rust language. - Study schedule in 90 days
+
+<img src="./img.png" style="max-height: 300px"/>
+
+#### This repository brings together my studies in the Rust language. 
+#### Study schedule in 90 days
 
 #### start date: 7/24
 #### end date: 10/24
