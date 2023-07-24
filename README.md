@@ -2,6 +2,9 @@
 
 This repository brings together my studies in the Rust language. - Study schedule in 90 days
 
+#### start date: 7/24
+#### end date: 10/24
+
 ## Each topic will be a branch
 
 ### Week 1 - Introduction to Rust
