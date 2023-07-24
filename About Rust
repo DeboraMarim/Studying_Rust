@@ -1,0 +1,18 @@
+```js 
+Rust is a high-level systems programming language, secure in terms of concurrency, and with a performance similar to C and C++. Rust is a language that aims to prevent segmentation errors (segfaults) and ensure thread safety, all without the need for an automatic garbage collector. This makes Rust an efficient programming language in terms of resource use, which does not sacrifice ease of programming.
+
+Here are some of the key features of Rust:
+
+Safety without sacrificing performance: Rust has several features, such as compile-time memory management, which ensure the safety of the program without sacrificing performance.
+
+Zero-cost abstractions: Rust allows creating abstractions without performance cost. This allows programmers to write high-level codes that are as efficient as low-level ones.
+
+Efficient memory management: Rust manages memory through an ownership system with a set of rules that are checked at compile time, without the need for a garbage collector.
+
+Concurrency without data races: Rust has strong concurrency control. The language provides an efficient and safe way to handle threads.
+
+Interoperability with C: Rust offers the possibility of interoperating with C code. This is especially useful if you need to integrate your Rust code with an existing C codebase.
+
+Rich tools: Rust comes with an integrated package manager called Cargo. It makes it very easy to download, compile, and manage dependencies for your Rust project.
+
+The Rust language is becoming increasingly popular due to its emphasis on safety and performance, in addition to its active and rapidly growing developer community.
