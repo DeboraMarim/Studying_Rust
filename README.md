@@ -14,7 +14,7 @@
 ### Week 1 - Introduction to Rust
 
 #### Days 1 to 3:
-- [ ] Understanding what Rust is.
+- [x] Understanding what Rust is.
 - [ ] Installing Rust.
 - [ ] "Hello, World!" in Rust.
 - [ ] Basic syntax and variables.
