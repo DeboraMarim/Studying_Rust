@@ -120,6 +120,8 @@
 
 ************************************************************************************************************
 ************************************************************************************************************
+        Information obtained from the documentation on 07/25/2023
+        https://www.rust-lang.org/learn/get-started
 
 
 Rust is a high-level systems programming language, secure in terms of concurrency, and with a performance similar to C and C++. Rust is a language that aims to prevent segmentation errors (segfaults) and ensure thread safety, all without the need for an automatic garbage collector. This makes Rust an efficient programming language in terms of resource use, which does not sacrifice ease of programming.
@@ -143,7 +145,6 @@ The Rust language is becoming increasingly popular due to its emphasis on safety
 *******************************************************************************
 *******************************************************************************
 *******************************************************************************
-
  
 Generating a new project
 
