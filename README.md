@@ -145,7 +145,63 @@ The Rust language is becoming increasingly popular due to its emphasis on safety
 *******************************************************************************
 *******************************************************************************
 *******************************************************************************
- 
+
+
+Getting started
+
+*******************************************************************************
+
+You can try Rust online in the Rust Playground without installing anything on your computer.
+
+( https://play.rust-lang.org/?version=stable&mode=debug&edition=2021 )
+
+*******************************************************************************
+
+Rustup: the Rust installer and version management tool
+The primary way that folks install Rust is through a tool called Rustup, which is a Rust installer and version management tool.
+
+It looks like you’re running macOS, Linux, or another Unix-like OS. To download Rustup and install Rust, run the following in your terminal, then follow the on-screen instructions.
+
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+*******************************************************************************
+
+if you are on Windows
+ See (https://forge.rust-lang.org/infra/other-installation-methods.html) 
+
+
+*******************************************************************************
+
+
+ Is Rust up to date?
+Rust updates very frequently. If you have installed Rustup some time ago, chances are your Rust version is out of date. Get the latest version of Rust by running rustup update.
+
+*******************************************************************************
+
+
+Cargo: the Rust build tool and package manager
+When you install Rustup you’ll also get the latest stable version of the Rust build tool and package manager, also known as Cargo. Cargo does lots of things:
+
+* build your project with cargo build
+
+* run your project with cargo run
+
+* test your project with cargo test
+
+* build documentation for your project with cargo doc
+
+* publish a library to crates.io with cargo publish
+
+
+To test that you have Rust and Cargo installed, you can run this in your terminal of choice:
+
+                                        cargo --version
+
+*******************************************************************************
+*******************************************************************************
+*******************************************************************************
+
+
 Generating a new project
 
 Let’s write a small application with our new Rust development environment. 
