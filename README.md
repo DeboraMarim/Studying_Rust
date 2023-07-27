@@ -21,8 +21,8 @@
 
 #### Days 4 to 7:
 
-- [ ] Data types in Rust.
-- [ ] Strings and String operations.
+- [x] Data types in Rust.
+- [x] Strings and String operations.
 - [ ] Control flow: if, else, loop, while, for.
 - [ ] First small project: build a program that performs basic mathematical operations.
 
