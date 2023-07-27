@@ -17,7 +17,7 @@
 - [x] Understanding what Rust is.
 - [x] Installing Rust.
 - [x] "Hello, World!" in Rust.
-- [ ] Basic syntax and variables.
+- [x] Basic syntax and variables.
 
 #### Days 4 to 7:
 
