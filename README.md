@@ -16,7 +16,7 @@
 #### Days 1 to 3:
 - [x] Understanding what Rust is.
 - [x] Installing Rust.
-- [ ] "Hello, World!" in Rust.
+- [x] "Hello, World!" in Rust.
 - [ ] Basic syntax and variables.
 
 #### Days 4 to 7:
