@@ -23,7 +23,7 @@
 
 - [x] Data types in Rust.
 - [x] Strings and String operations.
-- [ ] Control flow: if, else, loop, while, for.
+- [x] Control flow: if, else, loop, while, for.
 - [ ] First small project: build a program that performs basic mathematical operations.
 
 
