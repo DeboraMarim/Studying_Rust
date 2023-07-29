@@ -24,7 +24,7 @@
 - [x] Data types in Rust.
 - [x] Strings and String operations.
 - [x] Control flow: if, else, loop, while, for.
-- [ ] First small project: build a program that performs basic mathematical operations.
+- [x] First small project: build a program that performs basic mathematical operations.
 
 
 ### Week 2 - Data Structures in Rust
