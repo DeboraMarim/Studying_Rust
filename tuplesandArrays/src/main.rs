@@ -7,3 +7,12 @@ fn main() {
     println!("O valor de z é: {}", tup.2); // Acessando elementos da tupla
 }
 
+fn main2() {
+    let arr: [i32; 5] = [1, 2, 3, 4, 5];
+
+    let first = arr[0]; // Acessando o primeiro elemento do array
+    let second = arr[1]; // Acessando o segundo elemento do array
+
+    println!("O primeiro elemento é: {}", first);
+    println!("O segundo elemento é: {}", second);
+}
