@@ -32,7 +32,7 @@
 
 #### Days 8 to 10:
 
-- [ ] Tuples and Arrays.
+- [x] Tuples and Arrays.
 - [ ] Vectors.
 - [ ] Structures.
 - [ ] Neptune
