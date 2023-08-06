@@ -34,9 +34,7 @@
 
 - [x] Tuples and Arrays.
 - [x] Vectors.
-- [ ] Structures.
-- [ ] Neptune
-- [ ] Comet Haley
+- [x] Structures.
 
 
 #### Days 11 to 14:
