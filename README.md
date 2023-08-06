@@ -33,7 +33,7 @@
 #### Days 8 to 10:
 
 - [x] Tuples and Arrays.
-- [ ] Vectors.
+- [x] Vectors.
 - [ ] Structures.
 - [ ] Neptune
 - [ ] Comet Haley
