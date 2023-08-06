@@ -41,7 +41,7 @@
 
 - [x] Enumerations and pattern matching.
 - [x] Common collections.
-- [ ] Second small project: create a program that manipulates to-do lists.
+- [x] Second small project: create a program that manipulates to-do lists.
 
 
 ### Week 3 - Functions and Testing in Rust
