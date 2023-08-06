@@ -40,7 +40,7 @@
 #### Days 11 to 14:
 
 - [x] Enumerations and pattern matching.
-- [ ] Common collections.
+- [x] Common collections.
 - [ ] Second small project: create a program that manipulates to-do lists.
 
 
