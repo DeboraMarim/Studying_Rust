@@ -49,7 +49,6 @@
 #### Days 15 to 17:
 
 - [x] Functions.
-- [ ] Comments and Documentation.
 
 #### Days 18 to 21:
 
