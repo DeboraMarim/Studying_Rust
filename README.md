@@ -53,7 +53,7 @@
 #### Days 18 to 21:
 
 - [x] Unit tests.
-- [ ] Integration tests.
+- [x] Integration tests.
 - [ ] Third small project: create a quiz application with questions and answers.
 
 
