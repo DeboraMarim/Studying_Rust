@@ -77,16 +77,16 @@
 
 #### Days 29 to 31:
 
-- [ ] Deepening Traits.
-- [ ] Lifetime and Borrowing.
-- [ ] Rust's memory model.
+- [x] Deepening Traits.
+- [x] Lifetime and Borrowing.
+- [x] Rust's memory model.
 
 
 #### Days 32 to 35:
 
-- [ ] Optimization and performance.
-- [ ] Macros in Rust.
-- [ ] Fifth small project: create an inventory management application with complex functionalities.
+- [x] Optimization and performance.
+- [x] Macros in Rust.
+- [x] Fifth small project: create an inventory management application with complex functionalities.
 
 
 ### Week 6 to 9 - Practical Projects
