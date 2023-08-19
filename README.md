@@ -68,9 +68,9 @@
 
 #### Days 25 to 28:
 
-- [ ] Creating custom error codes.
-- [ ] Handling errors in programs.
-- [ ] Fourth small project: create a log registration program with error handling.
+- [x] Creating custom error codes.
+- [x] Handling errors in programs.
+- [x] Fourth small project: create a log registration program with error handling.
 
 
 ### Week 5 - Advanced Concepts
