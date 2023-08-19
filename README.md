@@ -103,10 +103,10 @@
 
 #### Days 64 to 90:
 
-- [ ] Concurrency and Parallelism.
-- [ ] Networking with Rust.
-- [ ] Asynchronous programming with Rust.
-- [ ] Final Project: Create a complete REST API with authentication, logging, and data persistence.
+- [x] Concurrency and Parallelism.
+- [x] Networking with Rust.
+- [x] Asynchronous programming with Rust.
+- [x] Final Project: Create a complete REST API with authentication, logging, and data persistence.
 
 
 
