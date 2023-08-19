@@ -63,7 +63,7 @@
 
 - [x] Introduction to error handling.
 - [x] The Result type and the ? operator.
-- [ ] Panic!
+- [x] Panic!
 
 
 #### Days 25 to 28:
