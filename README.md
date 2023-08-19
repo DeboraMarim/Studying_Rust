@@ -95,7 +95,7 @@
 
 - [x] Creating a basic web server with Rust.
 - [x] Creating an open source code library in Rust and publishing it on Crates.io.
-- [ ] Creating a simple language interpreter.
+- [x] Creating a simple language interpreter.
 - [ ] Create a CLI (Command Line Interface) application.
 
 
