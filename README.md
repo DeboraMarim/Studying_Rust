@@ -93,10 +93,10 @@
 
 #### Days 36 to 63:
 
-- [x] Creating a basic web server with Rust.
-- [x] Creating an open source code library in Rust and publishing it on Crates.io.
-- [x] Creating a simple language interpreter.
-- [x] Create a CLI (Command Line Interface) application.
+- [ ] Creating a basic web server with Rust.
+- [ ] Creating an open source code library in Rust and publishing it on Crates.io.
+- [ ] Creating a simple language interpreter.
+- [ ] Create a CLI (Command Line Interface) application.
 
 
 ### Week 10 to 13 - Advanced Topics and Final Project
