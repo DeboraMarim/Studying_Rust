@@ -54,7 +54,7 @@
 
 - [x] Unit tests.
 - [x] Integration tests.
-- [ ] Third small project: create a quiz application with questions and answers.
+- [x] Third small project: create a quiz application with questions and answers.
 
 
 ### Week 4 - Error Handling in Rust
