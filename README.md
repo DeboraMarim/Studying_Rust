@@ -94,7 +94,7 @@
 #### Days 36 to 63:
 
 - [x] Creating a basic web server with Rust.
-- [ ] Creating an open source code library in Rust and publishing it on Crates.io.
+- [x] Creating an open source code library in Rust and publishing it on Crates.io.
 - [ ] Creating a simple language interpreter.
 - [ ] Create a CLI (Command Line Interface) application.
 
