@@ -61,7 +61,7 @@
 
 #### Days 22 to 24:
 
-- [ ] Introduction to error handling.
+- [x] Introduction to error handling.
 - [ ] The Result type and the ? operator.
 - [ ] Panic!
 
