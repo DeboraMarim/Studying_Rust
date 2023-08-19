@@ -86,7 +86,7 @@
 
 - [x] Optimization and performance.
 - [x] Macros in Rust.
-- [x] Fifth small project: create an inventory management application with complex functionalities.
+- [] Fifth small project: create an inventory management application with complex functionalities.
 
 
 ### Week 6 to 9 - Practical Projects
